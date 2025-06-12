@@ -15,7 +15,7 @@ A lightweight, interactive web app to track expenses, visualize spending with pi
 ![Spending Dashboard Screenshot](preview.png)
 
 ## 🚀 Try It Live
-**(Optional)**: [View Demo](https://yourusername.github.io/spending-dashboard)
+**(Optional)**: [View Demo](https://ceifling98.github.io/spending-dashboard/)
 
 ## 📦 How to Use
 1. Clone this repo or download as ZIP
