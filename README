@@ -1,0 +1,48 @@
+# 💸 Spending Dashboard
+
+A responsive, front-end-only expense tracker that helps users visualize and manage spending in real time. Built with **HTML**, **CSS**, **JavaScript**, and **Chart.js**, it includes category-based filtering, persistent data storage, and CSV export — all without needing a backend or account.
+
+---
+
+## 🧩 Problem Statement
+
+Managing finances can be overwhelming, especially for users who just want a fast and private way to track expenses. Most budgeting tools require logins, subscriptions, or external accounts. The Spending Dashboard solves this by offering a **lightweight, browser-based app** that’s both intuitive and powerful — with no setup required.
+
+---
+
+## 📌 Features
+
+- ✅ Add and track expenses with custom categories and amounts
+- 📅 Filter expenses by **category** or **date (month/year)**
+- 📊 Real-time **pie chart** using Chart.js
+- 💾 **Persistent data** using localStorage
+- ✏️ **Edit** or **delete** individual entries
+- 📤 **Export to CSV** for offline use
+- 📱 **Mobile-friendly**, responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
+- **Chart.js**
+- **localStorage** (for client-side persistence)
+
+---
+
+## 🎯 Project Overview
+
+This app was built as a hands-on project to explore clean front-end architecture, DOM interaction, and visual data representation. It mimics the core utility of many budgeting tools but strips away the complexity, making it useful for quick logging and trend recognition.
+
+---
+
+## 🔗 Live Demo
+
+👉 [Try the Spending Dashboard](https://ceifling98.github.io/spending-dashboard/)
+
+---
+
+## 📂 Project Structure
+
